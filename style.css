@@ -1,0 +1,10 @@
+body{
+    text-align: center;
+
+}
+.main{
+    background-image: linear-gradient(to right, rgb(114, 114, 190), rgb(24, 85, 24));
+    max-width: 60%;
+    margin: auto;
+    padding: 1% ;
+}
